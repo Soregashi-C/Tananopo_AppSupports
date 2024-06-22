@@ -1,0 +1,2 @@
+# Tananopo_AppSupports
+たなのぽのアプリサポートページです。
